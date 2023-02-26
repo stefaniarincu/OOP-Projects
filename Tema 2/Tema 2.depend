@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650391451 source:c:\program files\codeblocks\mingw\poo\tema 2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<windows.h>
+

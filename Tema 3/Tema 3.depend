@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653728625 source:c:\program files\codeblocks\mingw\poo\tema 3\main.cpp
+	<iostream>
+	<cstring>
+	<set>
+	<vector>
+
